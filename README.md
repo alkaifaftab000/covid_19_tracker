@@ -1,4 +1,4 @@
-## COVID-19 Tracker App
+## COVID-19 Tracker App (Web Version)
 
 This Flutter-based COVID-19 Tracker app provides real-time statistics and analysis of COVID-19 cases worldwide. The app features:
 
